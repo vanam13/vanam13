@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Vanam</h1>
 <h3 align="center">A Tech enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9AnS.gif"</img>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9AnS.gif](https://i.gifer.com/QL4m.gif"</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanam13&label=Profile%20views&color=0e75b6&style=flat" alt="vanam13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanam13" alt="vanam13" /></a> </p>
